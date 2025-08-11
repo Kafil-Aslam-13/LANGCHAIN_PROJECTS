@@ -1,0 +1,6 @@
+langchain-groq
+fastapi
+uvicorn
+langserve
+sse_starlette
+pydantic==2.10.6
